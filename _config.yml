@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            'My site'
 tagline:          'A test site for learning'
-description:      'A description goes here.'
+description:      'A description goes here. '
 url:              https://collectionslab.github.io
 baseurl:          /dawnc/
 
